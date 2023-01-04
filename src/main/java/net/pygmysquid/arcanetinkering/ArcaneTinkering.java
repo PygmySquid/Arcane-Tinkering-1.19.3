@@ -15,7 +15,7 @@ import org.slf4j.Logger;
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(ArcaneTinkering.MOD_ID)
 public class ArcaneTinkering {
-    public static final String MOD_ID = "arcanetinkering";
+    public static final String MOD_ID = "arctink";
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public ArcaneTinkering() {
